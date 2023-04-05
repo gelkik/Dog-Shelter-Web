@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/gelkik.github.io/Dog-Shelter/static/css/main.31d6cfe0.css",
+    "main.js": "/gelkik.github.io/Dog-Shelter/static/js/main.117bca44.js",
+    "static/media/slider_bg01.jpg": "/gelkik.github.io/Dog-Shelter/static/media/slider_bg01.5a1c63dc2a6efd9f0a5a.jpg",
+    "static/media/logo1.png": "/gelkik.github.io/Dog-Shelter/static/media/logo1.66206ef02b02028e9577.png",
+    "index.html": "/gelkik.github.io/Dog-Shelter/index.html",
+    "main.117bca44.js.map": "/gelkik.github.io/Dog-Shelter/static/js/main.117bca44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.117bca44.js"
+  ]
+}
